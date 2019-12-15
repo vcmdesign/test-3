@@ -1,0 +1,34 @@
+#box{
+	height: 1200px;
+	width: 900px;
+	background-color: #1E0F00;
+	margin: 0 auto;
+}
+
+.Vlad{
+	font-family: SignPainter;
+	font-size: 70px;
+	color: #26137D;
+	margin: 30px;
+}
+
+.Vlad strong{
+	font-size: 100px;
+}
+.Text{
+	font-family: Calisto MT;
+	font-size: 30px;
+	color: #917DE8;
+}
+
+.Text strong{
+	font-size: 30px;
+	background-color: 
+	text-decoration: none;
+}
+
+.Text a{
+	text-decoration: none;
+	font-size: 40px;
+	color: #ffc324;
+}
